@@ -1,5 +1,20 @@
 import java.util.Scanner;
 
+//Program to multiply two numbers taking user input
+
+/*
+
+@author : Arjun Codes
+*/
+
+
+/**
+ * @author Arjun Gautam
+ * Project :Texas Java Training
+ * Date : 2021-06-17
+ */
+
+
 public class UserInput {
     public static void main(String[] args) {
 
@@ -12,8 +27,6 @@ public class UserInput {
         secondNumber=input.nextInt();
 
         result=firstNumber*secondNumber;
-
         System.out.println("Result is "+result);
-
     }
 }
