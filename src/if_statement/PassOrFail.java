@@ -1,3 +1,5 @@
+package if_statement;
+
 import java.util.Scanner;
 
 public class PassOrFail {

@@ -1,3 +1,5 @@
+package basic_programming;
+
 public class MultiplyDemo {
     public static void main(String[] args) {
         int firstNumber=10;
