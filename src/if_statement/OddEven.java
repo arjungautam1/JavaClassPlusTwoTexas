@@ -1,3 +1,5 @@
+package if_statement;
+
 public class OddEven {
     //odd numbers: 1,3,5,7
     //even numbers: 2,4,6,8,10

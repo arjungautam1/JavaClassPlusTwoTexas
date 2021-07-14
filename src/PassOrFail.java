@@ -2,6 +2,10 @@ import java.util.Scanner;
 
 public class PassOrFail {
     public static void main(String[] args) {
+
+
+
+
         System.out.println("Enter the marks you obtained:");
         Scanner marks=new Scanner(System.in);
         int obtainedMarks=marks.nextInt();

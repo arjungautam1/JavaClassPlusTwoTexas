@@ -1,3 +1,5 @@
+package data_type;
+
 import java.util.Scanner;
 
 public class StringDemo {

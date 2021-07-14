@@ -1,3 +1,5 @@
+package if_statement;
+
 public class IfStatement {
     public static void main(String[] args) {
         //Program to demonstrate the use of if statement
