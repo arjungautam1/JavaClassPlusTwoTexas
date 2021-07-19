@@ -7,9 +7,9 @@ public class SwapDemo {
         int a=10,b=20;
         System.out.println("Before swap a "+a+" b "+b);
         int temp;
-        temp=a;
-        a=b;
-        b=temp;
+        temp=a;  //temp =10
+        a=b;    //a=20
+        b=temp;  //b=10
         System.out.println("After swap a "+a+" b "+b);
     }
 
