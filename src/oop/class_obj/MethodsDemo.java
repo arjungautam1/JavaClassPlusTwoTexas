@@ -1,4 +1,4 @@
-package oop;
+package oop.class_obj;
 
 
 class Hello {

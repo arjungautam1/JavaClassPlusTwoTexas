@@ -1,4 +1,4 @@
-package oop;
+package oop.class_obj;
 
 class MainClass{
     public static void main(String[] args) {
