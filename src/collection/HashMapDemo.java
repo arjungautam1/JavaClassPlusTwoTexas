@@ -10,6 +10,8 @@ public class HashMapDemo {
         map.put(2, "Apple");
         map.put(3, "Banana");
         map.put(4, "Grapes");
+        map.put(4,"Grape"); //trying the duplicate value
+        map.remove(2);  //remove the value
 
         System.out.println("Iterating Hashmap..");
         for (Map.Entry m : map.entrySet()) {
