@@ -1,5 +1,5 @@
 package abstractdemo;
-
+//Comment to check the dot operation in VSCode
 abstract class Bike{
     abstract void run();
 
